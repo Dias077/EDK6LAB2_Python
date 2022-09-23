@@ -1,1 +1,3 @@
-# EDK6LAB2_Python
+# EDKLAB2_Var6Python
+
+![Screenshot](main.png)
